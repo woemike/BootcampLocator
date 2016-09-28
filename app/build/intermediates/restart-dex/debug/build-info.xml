@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="537571552215345" >
+
+    <task
+        name="javac"
+        duration="144" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="16" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="/Users/markprice/AndroidStudioProjects/BootcampLocator/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+        type="DEX" />
+
+    <build timestamp="537290555264758" >
+        <artifact
+            location="/Users/markprice/AndroidStudioProjects/BootcampLocator/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="537571552215345" >
+        <artifact
+            location="/Users/markprice/AndroidStudioProjects/BootcampLocator/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

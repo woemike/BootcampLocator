@@ -1,0 +1,19 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=3D:89:65:77:A4:12:5A:20:38:77:5B:E7:80:4A:6E:FA:0B:43:6C:56%3Bcom.devslopes.bootcamplocator
+
+    You can also add your credentials to an existing key, using this line:
+    3D:89:65:77:A4:12:5A:20:38:77:5B:E7:80:4A:6E:FA:0B:43:6C:56;com.devslopes.bootcamplocator
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAaiAookYiZ0wMSrqpHiinUvfoOwZbirj8</string>
+</resources>

@@ -1,0 +1,3 @@
+CHANGED,/Users/markprice/AndroidStudioProjects/BootcampLocator/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/devslopes/bootcamplocator/fragments/MainFragment$1$override.class
+CHANGED,/Users/markprice/AndroidStudioProjects/BootcampLocator/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/Users/markprice/AndroidStudioProjects/BootcampLocator/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/devslopes/bootcamplocator/fragments/MainFragment$override.class
